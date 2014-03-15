@@ -1,0 +1,15 @@
+{
+    "name"        : "moss_users"
+  , "version"     : "0.0.1"
+  , "homepage"    : "http://github.com/apocas"
+  , "description" : "..."
+  , "author": "Pedro Dias <petermdias@gmail.com>"
+  , "main"    : "./main.js"
+  , "dependencies": {
+    "colors": "*",
+    "ssh2": "*",
+    "read": "*",
+    "async": "*",
+    "debug": "*"
+  }
+}
